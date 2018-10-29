@@ -1,5 +1,6 @@
 # MLPhonePicker
 自定义矩形裁剪框
+
 1.使用方法
  [[MLImagePicker sharePicker] showPickerWith:self completeBlock:^(UIImage *image) {
 //拿到裁剪后的图片
