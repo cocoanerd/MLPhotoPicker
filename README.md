@@ -1,4 +1,4 @@
-# MLPhonePicker
+# MLPhotoPicker
 自定义矩形裁剪框
 
 1.使用方法
