@@ -62,3 +62,6 @@
     [self resetMinSpaceIfNeeded];
 
 }
+
+
+![image](MLPhotoPicker/QQ20181029-111149-HD.gif)
