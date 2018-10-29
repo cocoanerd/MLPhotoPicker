@@ -64,4 +64,4 @@
 }
 
 
-![image](MLPhotoPicker/QQ20181029-111149-HD.gif)
+![image](https://github.com/huiqun/MLPhotoPicker/blob/master/QQ20181029-111149-HD.gif)
